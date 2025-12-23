@@ -1,4 +1,37 @@
-# HEDIMED Probabilistic Markov Model For Determining The Cost-Effectiveness of Mass Screening for Celiac Disease
+# Probabilistic Markov Model For Determining The Cost-Effectiveness of Mass Screening for Celiac Disease
+
+## Citation
+
+If you use this code or the associated research, please cite the following publication:
+
+**Mäkinen J, Heikkilä P, Pajula J, El Mekkaoui K, Størdal K, Lindfors K, et al. Screening for celiac disease in childhood: cost-effectiveness of multiple genetic and serological testing approaches. Clin Gastroenterol Hepatol. 2025. https://doi.org/10.1016/j.cgh.2025.11.030**
+
+### BibTeX
+
+```bibtex
+@article{makinen_screening_2025,
+	title = {Screening for celiac disease in childhood: cost-effectiveness of multiple genetic and serological testing approaches},
+	issn = {1542-7714},
+	shorttitle = {Screening for celiac disease in childhood},
+	doi = {10.1016/j.cgh.2025.11.030},
+	language = {eng},
+	journal = {Clinical Gastroenterology and Hepatology: The Official Clinical Practice Journal of the American Gastroenterological Association},
+	author = {Mäkinen, Jani and Heikkilä, Paula and Pajula, Juha and El Mekkaoui, Khaoula and Størdal, Ketil and Lindfors, Katri and Laiho, Jutta E. and Ranta, Jukka and Rökman, Jyri and Hyöty, Heikki and Emmert-Streib, Frank and Kurppa, Kalle and Kivelä, Laura and {HEDIMED investigator group}},
+	month = dec,
+	year = {2025},
+	pmid = {41407089},
+	keywords = {Health Economics, Cost-utility analysis, Pediatric screening, Preventive health care},
+	pages = {S1542--3565(25)01032--8},
+}
+```
+
+## Data Availability
+
+The simulated results and datasets are available on Zenodo: 10.5281/zenodo.16877205
+
+## Funding
+
+This project received funding from the European Union’s Horizon 2020 research and innovation program under grant agreement No. 874864 HEDIMED, the Sigrid Jusélius Foundation, the Foundation for Pediatric Research, the Paulo Foundation, the Research  Council of Finland (361421, 347474), the Finnish Medical Foundation (7850), the Emil  Aaltonen Foundation, and the State funding for university-level health research, Tampere  University Hospital, Wellbeing services county of Pirkanmaa
 
 ## Running the code
 
